@@ -5,8 +5,8 @@ param(
 
 $ErrorActionPreference = "Stop"
 
-$VM_USER = "m24.YFMa"
-$VM_HOST = "192.168.120.213"
+$VM_USER = "user"
+$VM_HOST = "192.168.xxx.xxx"
 $REMOTE_DIR = "/nfs10/data3/m24.YFMa/my-python-project/"
 $TRAIN_LOG = "/nfs10/data3/m24.YFMa/my-python-project/logs/train/smoke_train.log"
 $SSH = "D:\cwrsync_6.4.8_x64_free\bin\ssh.exe"
