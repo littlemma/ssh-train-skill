@@ -19,8 +19,7 @@ function First-Value($A, $B, $Default) {
 }
 
 $Config = Read-Config $ConfigPath
-$RemoteHost = First-Value $RemoteHost $Config.remote_host "192.168.120.215"
-$RemoteUser = First-Value $RemoteUser $Config.remote_user "y24.d01.user17"
+
 $SshDir = Split-Path -Parent $KeyPath
 $PubKey = "$KeyPath.pub"
 
