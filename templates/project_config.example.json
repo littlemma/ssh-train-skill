@@ -1,0 +1,13 @@
+{
+  "local_project_dir": "E:/my-python-project",
+  "reference_project_dir": "E:/my-python-project/reference-project",
+  "remote_host": "192.168.120.215",
+  "remote_user": "y24.d01.user17",
+  "remote_project_dir": "/nfs10/data3/y24.d01.user17/my-python-project",
+  "remote_conda_env": "PISR2-2",
+  "test_command": "pytest -q",
+  "train_command": "python scripts/train.py",
+  "use_tmux": true,
+  "tmux_session": "train",
+  "cwrsync_dir": "D:/cwrsync_6.4.8_x64_free"
+}
