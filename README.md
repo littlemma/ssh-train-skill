@@ -1,4 +1,4 @@
-[ssh-train-remote-workflow 使用指南.md](https://github.com/user-attachments/files/29282143/ssh-train-remote-workflow.md)
+[ssh-train-remote-workflow 使用指南.md](https://github.com/user-attachments/files/29282183/ssh-train-remote-workflow.md)
 ---
 title: "ssh-train-remote-workflow Skill 使用指南"
 aliases:
@@ -34,7 +34,7 @@ relevance: "用于黑洞图像重建项目中远程 GPU 训练、测试和实验
 
 # ssh-train-remote-workflow Skill 使用指南
 
-> [!info] 是什么
+> 是什么:
 > 一个 Codex/Superpower AI 编程助手的 **Skill**，实现 **Windows 本地编辑代码，Linux GPU 服务器远程训练** 的标准化工作流。Skill 位于 `E:\ssh-train\`。
 
 ---
